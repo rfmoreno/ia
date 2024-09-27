@@ -1,4 +1,4 @@
-tipo vino;Acidez fija; Acidez volatil; Acido citrico; Cloruros; azucar residual;  libre Dioxido de azufre; total Dioxido de azufre;  Densidad; pH; Sulfatos; Alcohol; Calidad
+tipo vino;Acidez_fija; A_volatil; Ac_citrico; Cloruros; azucar_residual;  l_Dioxido_azufre; T_Dioxido_azufre;  Densidad; pH; Sulfatos; Alcohol; Calidad
 Blanco;7;0.27;0.36;20.7;0.045;45;170;1.001;3;0.45;8.8;6
 Blanco;6.3;0.3;0.34;1.6;0.049;14;132;0.994;3.3;0.49;9.5;6
 Blanco;8.1;0.28;0.4;6.9;0.05;30;97;0.9951;3.26;0.44;10.1;6
